@@ -49,7 +49,7 @@ The main features of LPC2148 include the following.
 2. click on FILE, click on new stm 32 project
 
 <img src=https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png width=450 height=450>
-< img src=https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png width=450 height=450>
+<img src=https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png width=450 height=450>
 
 3. select the target to be programmed  as shown below and click on next 
 
