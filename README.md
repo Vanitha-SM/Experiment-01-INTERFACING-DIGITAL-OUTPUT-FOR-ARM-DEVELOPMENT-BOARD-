@@ -20,23 +20,24 @@ The LPC2148 microcontroller is designed by Philips (NXP Semiconductor) with seve
 
 Features of LPC2148:
 The main features of LPC2148 include the following.
-•	The LPC2148 is a 16 bit or 32 bit ARM7 family based microcontroller and available in a small LQFP64 package.
-•	ISP (in system programming) or IAP (in application programming) using on-chip boot loader software.
-•	On-chip static RAM is 8 kB-40 kB, on-chip flash memory is 32 kB-512 kB, the wide interface is 128 bit, or accelerator allows 60 MHz high-speed operation.
-•	It takes 400 milliseconds time for erasing the data in full chip and 1 millisecond time for 256 bytes of programming.
-•	Embedded Trace interfaces and Embedded ICE RT offers real-time debugging with high-speed tracing of instruction execution and on-chip Real Monitor software.
-•	It has 2 kB of endpoint RAM and USB 2.0 full speed device controller. Furthermore, this microcontroller offers 8kB on-chip RAM nearby to USB with DMA.
-•	One or two 10-bit ADCs offer 6 or 14 analogs i/ps with low conversion time as 2.44 μs/ channel.
-•	Only 10 bit DAC offers changeable analog o/p.
-•	External event counter/32 bit timers-2, PWM unit, & watchdog.
-•	Low power RTC (real time clock) & 32 kHz clock input.
-•	Several serial interfaces like two 16C550 UARTs, two I2C-buses with 400 kbit/s speed.
-•	5 volts tolerant quick general purpose Input/output pins in a small LQFP64 package.
-•	Outside interrupt pins-21.
-•	60 MHz of utmost CPU CLK-clock obtainable from the programmable-on-chip phase locked loop by resolving time is 100 μs.
-•	The incorporated oscillator on the chip will work by an exterior crystal that ranges from 1 MHz-25 MHz
-•	The modes for power-conserving mainly comprise idle & power down.
-•	For extra power optimization, there are individual enable or disable of peripheral functions and peripheral CLK scaling.
+
+- The LPC2148 is a 16 bit or 32 bit ARM7 family based microcontroller and available in a small LQFP64 package.
+- ISP (in system programming) or IAP (in application programming) using on-chip boot loader software.
+- On-chip static RAM is 8 kB-40 kB, on-chip flash memory is 32 kB-512 kB, the wide interface is 128 bit, or accelerator allows 60 MHz high-speed operation.
+- It takes 400 milliseconds time for erasing the data in full chip and 1 millisecond time for 256 bytes of programming.
+- Embedded Trace interfaces and Embedded ICE RT offers real-time debugging with high-speed tracing of instruction execution and on-chip Real Monitor software.
+- It has 2 kB of endpoint RAM and USB 2.0 full speed device controller. Furthermore, this microcontroller offers 8kB on-chip RAM nearby to USB with DMA.
+- One or two 10-bit ADCs offer 6 or 14 analogs i/ps with low conversion time as 2.44 μs/ channel.
+- Only 10 bit DAC offers changeable analog o/p.
+- External event counter/32 bit timers-2, PWM unit, & watchdog.
+- Low power RTC (real time clock) & 32 kHz clock input.
+- Several serial interfaces like two 16C550 UARTs, two I2C-buses with 400 kbit/s speed.
+  5 volts tolerant quick general purpose Input/output pins in a small LQFP64 package.
+- Outside interrupt pins-21.
+- 60 MHz of utmost CPU CLK-clock obtainable from the programmable-on-chip phase locked loop by resolving time is 100 μs.
+- The incorporated oscillator on the chip will work by an exterior crystal that ranges from 1 MHz-25 MHz
+- The modes for power-conserving mainly comprise idle & power down.
+- For extra power optimization, there are individual enable or disable of peripheral functions and peripheral CLK scaling.
  
  
 
@@ -49,6 +50,7 @@ The main features of LPC2148 include the following.
 
 <img src=https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png width=450 height=450>
 < img src=https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png width=450 height=450>
+
 3. select the target to be programmed  as shown below and click on next 
 
 <img src=https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png width=450 height=450>
@@ -72,6 +74,7 @@ The main features of LPC2148 include the following.
 
 <img src=https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png width=450 height=450>
 <img src=https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png width=450 height=450>
+
 8. edit the program and as per required 
 
 <img src=https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png width=450 height=450>
